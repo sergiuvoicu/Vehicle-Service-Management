@@ -1,0 +1,7 @@
+
+enum Transmisie {
+	
+	MANUALA,
+	AUTOMATA
+
+}
